@@ -1,4 +1,4 @@
-# Blockchain-Based Supply Chain Management System
+# Blockchain-Based Supply Chain Management System ⛓️
 
 This project implements a blockchain-based supply chain management system using Python. It simulates the addition, mining, and tracking of transactions in a decentralized ledger, enabling secure and transparent tracking of products across the supply chain.
 
