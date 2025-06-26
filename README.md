@@ -13,5 +13,3 @@ This project implements a blockchain-based supply chain management system using 
 2. **Mine Transactions**: Add pending transactions to the blockchain by solving a proof-of-work problem.
 3. **View Blockchain**: Display the entire blockchain, showing each block's transactions, timestamp, and hash.
 
-
-um hey
